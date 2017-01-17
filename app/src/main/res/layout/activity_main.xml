@@ -16,7 +16,7 @@
         android:text="Hello World!" />
 
     <Button
-        android:text="Button"
+        android:text="VCS"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
@@ -33,7 +33,7 @@
         android:id="@+id/button2" />
 
     <TextView
-        android:text="TextView"
+        android:text="kaddu"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView"
